@@ -23,3 +23,11 @@ The main application source file is `SeatCtrlApp.cpp`.
 
 Other standard files include `StdAfx.h` and `StdAfx.cpp`, which are used to build a precompiled header (PCH) file named `SeatCtrlApp.pch` and a precompiled types file named `StdAfx.obj`.
 
+![Proteus](https://github.com/Eman22adel/Auto-Manual-Mode-for-Seat-Control/blob/main/Screenshot%202024-05-11%20195746.png)
+![Proteus](https://github.com/Eman22adel/Auto-Manual-Mode-for-Seat-Control/blob/main/Screenshot%202024-05-11%20195759.png)
+![Proteus](https://github.com/Eman22adel/Auto-Manual-Mode-for-Seat-Control/blob/main/Screenshot%202024-05-11%20195829.png)
+![Proteus](https://github.com/Eman22adel/Auto-Manual-Mode-for-Seat-Control/blob/main/Screenshot%202024-05-11%20195807.png)
+![Proteus](https://github.com/Eman22adel/Auto-Manual-Mode-for-Seat-Control/blob/main/Screenshot%202024-05-11%20195815.png)
+![Proteus](https://github.com/Eman22adel/Auto-Manual-Mode-for-Seat-Control/blob/main/Screenshot%202024-05-11%20195823.png)
+
+
